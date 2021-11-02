@@ -1,0 +1,4 @@
+br/com/abruzzo/agendamento_email/JAXRSConfiguration.class
+br/com/abruzzo/agendamento_email/AgendamentoServico.class
+br/com/abruzzo/agendamento_email/resources/JavaEE8Resource.class
+br/com/abruzzo/servlet/AgendamentoEmailServlet.class
